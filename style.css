@@ -1,0 +1,30 @@
+.header {
+    padding: 60px;
+    text-align:right;
+    background:#1abc9c;
+    color:white;
+    font-size:30px;
+
+}
+.container{
+    background-color: lightgray;
+    width: max-width;
+    margin:auto;
+    padding:20px;
+    border:2px;
+}    
+
+.imgwebd{ 
+    display:block;
+    float: right;
+    margin-left: 20px;
+    margin-right:2px;
+    width:50%;
+
+}
+.footer{
+    background:rgb(211, 190, 190);
+    text-align: justify;
+
+
+}
